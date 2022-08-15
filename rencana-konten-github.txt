@@ -2,8 +2,11 @@ RENCANA KONTEN
   - Javascript
     * ES6
     * Framework Javascript
+    ^ React
+    ^ Angular
   - Struktur data dasar
   - PHP Framework
+    ^ Laravel
   - Interview
   - Blog
   
