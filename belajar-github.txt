@@ -2,3 +2,4 @@ BELAJAR GITHUB
   - Konsisten belajar coding setiap hari
   - Menjadi Programmer yang jago
   - Membuat Forum Diskusi
+  - Membuat dokumentasi
