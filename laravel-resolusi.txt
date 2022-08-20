@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya laravel dari jakarta 
+
+Resolusi saya : 
+ - Membuat aplikasi android menggunakan framework flutter
+ - bekerja di start-up
+ - ingin menjadi mobile developer

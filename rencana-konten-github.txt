@@ -4,6 +4,7 @@ RENCANA KONTEN
     * Framework Javascript
     ^ Vue
     ^ React
+    ^ Angular
   - Struktur data dasar
   - PHP Framework
     ^ Laravel
